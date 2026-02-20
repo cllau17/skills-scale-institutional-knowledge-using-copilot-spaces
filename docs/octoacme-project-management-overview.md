@@ -17,8 +17,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Analyst: validates quality, designs test plans, and ensures acceptance criteria are met.
 - Stakeholders: provide inputs and approvals.
+- Change Manager: oversees and coordinates process/scope changes across teams.
+- Communications Lead: develops and delivers communication strategies and stakeholder updates.
+- Stakeholder Liaison: bridges stakeholder interests and the project team.
+- Agile Coach: guides teams on Agile practices and continuous improvement.
+
+See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detailed role descriptions and collaboration touchpoints.
 
 ## Key Artifacts
 - Project Charter / One-pager
